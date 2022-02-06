@@ -1,5 +1,7 @@
 manga
 melancia
 morango
-maça
 banana
+queijo
+white
+groselha
